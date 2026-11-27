@@ -28,7 +28,7 @@
         <span class="brand-text"><span class="brand-name">Student Results</span><span class="brand-school">Management System</span></span>
       </a>
 
-      <span class="term-chip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="4" width="18" height="18" rx="3"/><path d="M16 2v4M8 2v4M3 10h18"/></svg> Autumn term &middot; Week 4</span>
+      <span class="term-chip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="4" width="18" height="18" rx="3"/><path d="M16 2v4M8 2v4M3 10h18"/></svg> Student Academic Records; Week 4</span>
 
       <nav class="portal-switch" aria-label="Portal view">
         <a href="index.html" aria-current="page"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg> Student</a>
@@ -108,7 +108,7 @@
               <a class="hello-stat hello-stat-link" href="assignments.html">
                 <span class="hs-label">Total Marks</span>
                 <span class="hs-value">500</span>
-                <span class="hs-sub">Mximum marks</span>
+                <span class="hs-sub">Maximum marks</span>
               </a>
               <div class="hello-stat">
                 <span class="hs-label">Percentage</span>
@@ -135,12 +135,12 @@
                 <span class="ring-label"><strong>--%</strong><span>overall</span></span>
               </div>
               <ul class="legend-list">
-                <li><span class="key key-primary" aria-hidden="true"></span><span>Present</span><strong>82 lessons</strong></li>
-                <li><span class="key key-coral" aria-hidden="true"></span><span>Late</span><strong>1</strong></li>
-                <li><span class="key key-muted" aria-hidden="true"></span><span>Missed, authorised</span><strong>3</strong></li>
+                <li><span class="key key-primary" aria-hidden="true"></span><span>Total Marks</span><strong>82 lessons</strong></li>
+                <li><span class="key key-coral" aria-hidden="true"></span><span>Percentage</span><strong>1</strong></li>
+                <li><span class="key key-muted" aria-hidden="true"></span><span>Grade</span><strong>3</strong></li>
               </ul>
             </div>
-            <p class="attend-note">Enter student marks to calculate your esult.</p>
+            <p class="attend-note">Enter student marks to calculate the final result.</p>
           </section>
         </div>
       </div>
@@ -433,7 +433,7 @@
 
   <footer class="app-footer">
     <div class="footer-inner">
-      <p>&copy; Harbourview Academy &middot; Homeroom student and parent portal</p>
+      <p>&copy; Student Result Management System</p>
       <p>Portal help: <a href="mailto:help@example.com">help@example.com</a> &middot; <a href="tel:+15555550142">555-0142</a></p>
       <p class="credit">Template by <a href="https://uicookies.com/">uiCookies</a></p>
     </div>
